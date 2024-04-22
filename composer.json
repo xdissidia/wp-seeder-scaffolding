@@ -1,0 +1,19 @@
+{
+    "name": "xdissidia/wp-seeder-scaffolding",
+    "description": "Waveplay Seeder Scaffolding",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xdissidia\\WpSeederScaffolding\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Fructuoso",
+            "email": "jayfructuoso@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
